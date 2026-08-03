@@ -1,0 +1,24 @@
+{
+  "enabled": true,
+  "testMode": true,
+  "testState": "prelive",
+
+  "eventDate": "2026-08-05",
+  "showFromTime": "09:00",
+  "startTime": "15:00",
+  "endTime": "17:00",
+
+  "title": "Amazedecor TikTok Live",
+  "description": "Join us for balloon decoration ideas, product highlights and live demonstrations.",
+
+  "displayDay": "Friday",
+  "displayTime": "4:00 PM",
+  "language": "BM & English",
+
+  "preLiveLabel": "LIVE TODAY",
+  "liveButtonText": "JOIN LIVE",
+  "preLiveButtonText": "VIEW DETAILS",
+
+  "buttonUrl": "https://www.tiktok.com/@amaze.decor.suppl",
+  "poster": ""
+}

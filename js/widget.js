@@ -2,9 +2,17 @@
   "use strict";
 
   const HOST_ID = "teamair-tiktok-live-widget";
-  const CONFIG_URL =
-  "https://widget.amaltech.com.my/config.json";
+  const currentScript =
+  document.currentScript ||
+  [...document.scripts].find((script) =>
+    script.src.includes("/js/widget.js")
+  );
 
+const client =
+  currentScript?.dataset?.client?.trim().toLowerCase() || "teamair";
+
+const CONFIG_URL =
+  `https://widget.amaltech.com.my/config/${client}.json`;
   if (document.getElementById(HOST_ID)) return;
 
   function getMalaysiaNow() {
