@@ -717,8 +717,9 @@ const CONFIG_URL =
 
         @media (max-width: 600px) {
           .widget-container {
-            right: 13px;
-            bottom: 88px;
+            top: 120px;
+            right: 20px;
+            bottom: 105px;
           }
 
           .live-pill {
