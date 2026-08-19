@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "testMode": true,
+  "testMode": false,
   "testState": "live",
 
   "eventDate": "2026-08-19",
