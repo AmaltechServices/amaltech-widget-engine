@@ -3,12 +3,12 @@
   "testMode": true,
   "testState": "live",
 
-  "eventDate": "2026-08-05",
+  "eventDate": "2026-08-19",
   "showFromTime": "09:00",
   "startTime": "15:00",
   "endTime": "17:00",
 
-  "title": "260 Balloon Decoration Tutorial",
+  "title": "Balloon Decoration Tutorial",
   "description": "Join our TikTok Live and learn useful balloon decoration techniques with Teamair.",
 
   "displayDay": "Wednesday",
@@ -20,5 +20,5 @@
   "preLiveButtonText": "View Teamair TikTok",
 
   "buttonUrl": "https://www.tiktok.com/@teamairballoon",
-  "poster": "https://amaltech.com.my/widgets/teamair-live/assets/live-poster.jpg"
+  "poster": "https://amaltech.com.my/widgets/teamair-live/assets/live-poster.jpg" 
 }
